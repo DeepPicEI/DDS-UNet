@@ -1,2 +1,2 @@
 # DDS-UNet
-This repo for “Medical iImage Ssegmentation Mmodel bBased on Ddouble Ddecoding”
+This repo for “Medical Image Segmentation Model Based on Double Decoding”
